@@ -51,6 +51,3 @@ def hangman():
 
 if __name__ == "__main__":
     hangman()
-
-
-#and display guessed letters in a better way
